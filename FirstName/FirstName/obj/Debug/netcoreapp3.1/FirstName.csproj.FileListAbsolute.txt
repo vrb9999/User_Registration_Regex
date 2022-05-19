@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.exe
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.deps.json
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.runtimeconfig.json
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.dll
+D:\RFP\User_Registration_Regex\FirstName\FirstName\bin\Debug\netcoreapp3.1\FirstName.pdb
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.dll
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.pdb
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.genruntimeconfig.cache
+D:\RFP\User_Registration_Regex\FirstName\FirstName\obj\Debug\netcoreapp3.1\FirstName.csproj.AssemblyReference.cache
