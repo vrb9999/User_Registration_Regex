@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.exe
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.deps.json
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.json
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.dll
+D:\RFP\User_Registration_Regex\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.pdb
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.dll
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.pdb
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.genruntimeconfig.cache
+D:\RFP\User_Registration_Regex\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.csproj.AssemblyReference.cache
