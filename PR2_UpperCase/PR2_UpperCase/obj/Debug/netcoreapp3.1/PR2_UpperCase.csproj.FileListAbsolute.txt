@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.exe
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.deps.json
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.runtimeconfig.json
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.dll
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\bin\Debug\netcoreapp3.1\PR2_UpperCase.pdb
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.csproj.AssemblyReference.cache
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.dll
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.pdb
+D:\RFP\User_Registration_Regex\PR2_UpperCase\PR2_UpperCase\obj\Debug\netcoreapp3.1\PR2_UpperCase.genruntimeconfig.cache
