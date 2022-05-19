@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.exe
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.deps.json
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.runtimeconfig.json
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.dll
+D:\RFP\User_Registration_Regex\Email\Email\bin\Debug\netcoreapp3.1\Email.pdb
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.csproj.AssemblyReference.cache
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.dll
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.pdb
+D:\RFP\User_Registration_Regex\Email\Email\obj\Debug\netcoreapp3.1\Email.genruntimeconfig.cache
