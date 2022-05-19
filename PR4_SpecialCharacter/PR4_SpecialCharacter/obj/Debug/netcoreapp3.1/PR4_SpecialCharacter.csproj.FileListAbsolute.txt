@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.exe
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.deps.json
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.runtimeconfig.json
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.dll
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\bin\Debug\netcoreapp3.1\PR4_SpecialCharacter.pdb
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.csproj.AssemblyReference.cache
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.dll
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.pdb
+D:\RFP\User_Registration_Regex\PR4_SpecialCharacter\PR4_SpecialCharacter\obj\Debug\netcoreapp3.1\PR4_SpecialCharacter.genruntimeconfig.cache
