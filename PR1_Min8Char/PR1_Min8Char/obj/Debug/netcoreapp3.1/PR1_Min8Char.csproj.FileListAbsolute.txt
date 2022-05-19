@@ -1,0 +1,14 @@
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.exe
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.deps.json
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.runtimeconfig.json
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.runtimeconfig.dev.json
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.dll
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\bin\Debug\netcoreapp3.1\PR1_Min8Char.pdb
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.csproj.AssemblyReference.cache
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.AssemblyInfoInputs.cache
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.AssemblyInfo.cs
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.csproj.CoreCompileInputs.cache
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.dll
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.pdb
+D:\RFP\User_Registration_Regex\PR1_Min8Char\PR1_Min8Char\obj\Debug\netcoreapp3.1\PR1_Min8Char.genruntimeconfig.cache
